@@ -1,6 +1,6 @@
 // Khai báo các biến
 // dùng const cho những giá trị không thay đổi
-const age: number = 25;
+const age: number = 40;
 const isActive: boolean = true;
 // mảng string bằng cú pháp string[]
 const roles: string[] = ["admin", "user", "editor"];
